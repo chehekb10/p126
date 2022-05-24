@@ -1,0 +1,11 @@
+#heading{
+    background-color: darkgoldenrod;
+    padding: 10px;
+    margin: 0px;
+}
+#playing_button{
+    width: 100px;
+    background-color: red;border-color: red;
+    height: 30px;
+    font-size: larger;
+}
